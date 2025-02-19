@@ -1,6 +1,6 @@
 <h1 align="center"> Jogo do Número Secreto! </h1>
 
-![Imagem do Jogo numero Secreto](https://imgur.com/a/24MFkJn)
+![<alt-Jogo do numero secreto>](<https://imgur.com/a/24MFkJn>)
 
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 ![GitHub Org's stars](https://img.shields.io/github/stars/camilafernanda?style=social)
